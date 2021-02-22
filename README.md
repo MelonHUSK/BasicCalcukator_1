@@ -1,0 +1,2 @@
+# RNG
+a simple RNG 
